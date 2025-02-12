@@ -1,0 +1,13 @@
+transformers
+bitsandbytes
+streamlit
+chromadb
+langchain
+torch
+torchvision 
+torchaudio
+langchain_core
+langchain_community
+langchain-huggingface
+accelerate
+bs4

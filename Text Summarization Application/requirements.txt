@@ -1,0 +1,11 @@
+transformers 
+langchain 
+langchain-huggingface 
+huggingface_hub 
+accelerate 
+bitsandbytes 
+langchain_community
+streamlit
+langchain_core
+bitsandbytes
+chromadb
